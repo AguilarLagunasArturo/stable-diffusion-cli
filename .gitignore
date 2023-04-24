@@ -1,0 +1,7 @@
+_aigen/*
+_models/*
+img2img/*
+text2image/*
+text2video/*
+videoSrc/*
+videoSrcGen/*
